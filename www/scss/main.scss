@@ -1,0 +1,15 @@
+// your variable changes can go here
+
+$light:                 #fff;
+$stable:                #4ea4be;
+$positive:              #4ea4be;
+
+// The path for our ionicons font files, relative to the built CSS in www/css
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+
+// Include all of Ionic
+@import "ionic/ionic";
+
+// your slick styles can go here...
+// when Sass processes, both Ionic's Sass and your Sass will combine
+// into one file and saved in your app's directory as css/app.css
