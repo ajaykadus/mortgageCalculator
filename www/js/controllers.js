@@ -34,7 +34,7 @@ angular.module('starter.controllers', [])
 })
 
 .controller('mortgageRatesCtrl', function($scope) {
-  $scope.todayAvgRate = 3.8;
+  $scope.todayAvgRate = 3.9;
 })
 
 .controller('mortgageRates', function($scope, $stateParams) {
